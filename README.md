@@ -5,7 +5,7 @@
 This comprehensive data analysis project focuses on an extensive dataset of hotel reviews, aiming to extract meaningful insights for strategic decision-making in the hospitality sector. Leveraging techniques such as sentiment analysis, geographical exploration, and temporal trends, the project uncovers valuable patterns in customer feedback. The entire analysis was conducted in Python, with the aid of Azure Machine Learning for sentiment analysis, in the collaborative environment of Google Colab.
 
 **Key Objectives and Techniques:**
-- **Data Cleaning and Preprocessing:** The raw dataset underwent thorough cleaning and preprocessing to ensure uniformity, rectify missing values, and prepare the data for analysis.
+- **Data Cleaning and Preprocessing:** The raw dataset underwent thorough cleaning and preprocessing to ensure uniformity, rectify missing and suplicate values, and prepare the data for analysis.
 - **Sentiment Analysis:** Utilizing Azure Machine Learning add-in in Excel, reviews were categorized into positive, negative, and neutral sentiments, providing a nuanced understanding of customer feedback.
 - **Geographical Exploration:** Location-based patterns were investigated to identify regions with the highest concentration of reviews, offering insights into customer preferences and highlighting areas for potential business focus.
 - **Temporal Trend Identification:** The temporal trends of reviews were analyzed to uncover patterns in customer sentiment over time, identifying peak periods of positive reviews and potential areas for improvement.
