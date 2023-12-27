@@ -14,33 +14,33 @@ This comprehensive data analysis project focuses on an extensive dataset of hote
 1. **Positive Sentiment Dominates:**
    - **Conclusion:** The majority of reviews express positive sentiment, with approximately 49.89% positive reviews, 39.99% negative reviews, and 10.12% neutral reviews.
    - **Approach:** Used "Azure Machine-Learning" add-in in Excel for Sentiment Analysis of Reviews.
-   - ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/1%20(1).png?raw=true)
+     ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/1%20(1).png?raw=true)
 
 2. **USA Dominance:**
    - **Conclusion:** The United States of America (USA) stands out as the location with the highest number of reviews.
    - **Approach:** Extracted yearly insights by grouping the data based on the 'Location' column.
-   - ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/1%20(3).png?raw=true)
+     ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/1%20(3).png?raw=true)
 
 3. **2018 Positive Reviews Peak:**
    - **Conclusion:** The year 2018 witnessed a peak in the number of positive reviews, indicating a specific period of heightened customer satisfaction.
    - **Approach:** Conducted a temporal analysis by grouping reviews based on their publication date.
-   - ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/1%20(2).png?raw=true)
+     ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/1%20(2).png?raw=true)
 
 4. **Peak Review Month and Positive Sentiment:**
    - **Conclusion:** December 2018 emerges as a pivotal month, hosting the highest overall number of customer reviews and standing out as the month with the most positive reviews.
    - **Approach:** Combined temporal and sentiment analysis to identify the pivotal month.
-   - ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/1%20(5).png?raw=true)
-   - ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/1%20(7).png?raw=true)
+     ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/1%20(5).png?raw=true)
+     ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/1%20(7).png?raw=true)
 
 5. **Review Length and Sentiment Correlation:**
    - **Conclusion:** Negative reviews tend to have a longer average length compared to neutral and positive reviews, suggesting that customers expressing dissatisfaction may provide more detailed feedback.
    - **Approach:** Utilized text analytics to calculate the average review length for each sentiment category.
-   - ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/Screenshot%202023-12-28%20004158.png?raw=true)
+     ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/Screenshot%202023-12-28%20004158.png?raw=true)
 
 6. **Most Loved Location (USA):**
    - **Conclusion:** The United States emerges as the most loved location, with a notable concentration of positive reviews.
    - **Approach:** Identified the location with the highest number of positive reviews.
-   - ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/1%20(6).png?raw=true)
+     ![Visualization](https://github.com/Shaishta-Anjum/Sentiment-Scope-Unveiling-Patterns-in-Hotel-Reviews/blob/main/Visualizations/1%20(6).png?raw=true)
 
 **Tech Stack:**
 - **Programming Language:** Python
